@@ -1,0 +1,74 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/car.png",
+      "title": "فتح ابواب السيارات      ",
+      "description": "لدينا القدرة على فتح باب سيارتك بدون خدش الطلاء او الباب، لدينا خبرة اكثر من 10 سنوات في هذا المجال في دولة الكويت، لذلك فتح اقفال السيارات هو عمل سهل وسريع بالنسبة لنا      "
+    },
+    {
+      "id": "2",
+      "src": "./img/code-branch.png",
+      "title": "برمجة ريموت السيارة      ",
+      "description": "لدينا خدمة برمجة الريموت للسيارات، هذه الخدمة متوفرة لمعظم الموديلات مثل سيارات تويوتا – لكزس – كيا – هوندا – هيونداي وغيرها، يمكنك الاتصال والتأكد مباشرة      "
+    },
+    {
+      "id": "3",
+      "src": "./img/key.png",
+      "title": "نسخ و صب مفاتيح ",
+      "description": "لا يوجد شيء أفضل من وجود أكثر من مفتاح احتياطي سواء لسيارتك او البيت.سنقوم بعمل نسخ احتياطية من المفاتيح عالية الجودة تحت الطلب"
+    },
+    {
+      "id": "4",
+      "src": "./img/home.png",
+      "title": "فتح أقفال المنازل      ",
+      "description": "ربما نسيت اين قمت بوضع مفتاح البيت او لعلك اضعته. لا تقلق، فقط اتصل بنا وسنقوم بالوصول إليك في أقرب وقت ممكن. سنقوم بفتح باب البيت او الديوانية في اسرع وقت ممكن      "
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/hero_img.jpg",
+      "title": "هل تحتاج لفتح قفل سيارتك؟      ",
+      "description": "لا تقلق كل ما عليك هو الاتصال بنا وابلاغنا بمكان سيارتك في اي منطقة من مناطق دولة الكويت وسنأتي اليك في اسرع وقت ممكن."
+    },
+    {
+      "id": "2",
+      "src": "./img/about-me.png",
+      "title": "App Dashboard",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+    },
+    {
+      "id": "3",
+      "src": "./img/porto.jpg",
+      "title": "Easy Rentn",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar-image.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Dianne Russel",
+      "author_designation": "Starbucks"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar-image-1.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kristin Watson",
+      "author_designation": "Louis Vuitton"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kathryn Murphy",
+      "author_designation": "McDonald's"
+    }
+  ]
+}
